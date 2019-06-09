@@ -1,0 +1,14 @@
+C:\Users\hakan\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\hakan\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\hakan\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\hakan\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\hakan\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
